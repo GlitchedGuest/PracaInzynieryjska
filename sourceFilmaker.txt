@@ -36,3 +36,6 @@ https://www.samsung.com/us/xr/galaxy-xr/galaxy-xr/
 https://www.picoxr.com/global/products/g3
 https://www.apple.com/apple-vision-pro/
 https://www.meta.com/pl/quest/quest-3/?srsltid=AfmBOooMwroPCtSNJ7UmtF5sc6rNXs-s7CwH5onSUbyueBFG0YYLm5iM
+https://www.havenocode.io/pl/blog/artykul/wszystko-co-musisz-wiedziec-o-no-code
+https://www.unrealengine.com/en-US
+https://dev.epicgames.com/documentation
