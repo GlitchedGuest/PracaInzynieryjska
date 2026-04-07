@@ -1,3 +1,3 @@
 # ProjektStudia
 
-Praca Inżynierska symulator ikei
+Project for dyploma Interior decoration system using VR technology
